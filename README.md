@@ -1,5 +1,5 @@
-# 💫 Get to Know Me
-Hi, I'm Matt 👋<br>Data Analyst and Python Developer that enjoys problem solving and<br>making ideas comes to life 🧑‍💻.<br>-Security is optional, make sure to be part of it-
+# 💫 Hi, I'm Matt 👋
+Data Analyst and Python Developer that enjoys problem solving and<br>making ideas comes to life 🧑‍💻.<br>-Security is optional, make sure to be part of it-
 
 
 ## 🌐 Socials:
